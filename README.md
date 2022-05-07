@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">💻 Computer science student, from Russia 🇷🇺</h3>
 
-I am interested in ⌨ programming 🖥, mathematics 📚 and 🦿 robotics 🦾.
+I am interested in ⌨ programming 🖥, mathematics 📚 and 🦿robotics 🦾.
 
 👨‍💻 I write my programs in python and C/C++ 👨‍💻
 
