@@ -8,7 +8,7 @@ I am interested in ⌨ programming 🖥, mathematics 📚 and 🦿robotics 🦾.
 
 Also in my free time I like:
 - Play sports 🏀 🏓 🏒
-- I like to play chess ♟
+- Play chess ♟
 - Watch movies 📺
 - Listen music 🎧
 -----
