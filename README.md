@@ -1,10 +1,25 @@
 <h1 align="center">Hi there, I'm Slava
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">💻 Computer science student, from Russia 🇷🇺</h3>
 
-I am interested in ⌨ programming 🖥, mathematics 📚 and 🦿robotics 🦾.
+<h4 align="center">
 
-👨‍💻 I write my programs in python and C/C++ 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Computer+science+student+💻)](https://git.io/typing-svg)
+
+I am interested in ⌨ programming 🖥 mathematics 📚 and 🦾 robotics🦿
+</h4>
+
+
+Programming languages used
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsygankov-Slava&theme=solarized_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsygankov-Slava&theme=solarized_dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsygankov-Slava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|-|-|-|
 
 Also in my free time I like:
 - Play sports 🏀 🏓 🏒
@@ -12,6 +27,7 @@ Also in my free time I like:
 - Watch movies 📺
 - Listen music 🎧
 -----
+
 <h2 align="center">🏆 Github Profile Trophy </h2>
 <h1 align="center"> 
   
