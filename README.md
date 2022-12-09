@@ -37,9 +37,6 @@ Also in my free time I like:
 | ---------------------------|:----------------------:|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tsygankov-Slava&theme=dark)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsygankov-Slava&show_icons=true&theme=dark)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tsygankov-Slava&theme=react-dark&hide_border=true&area=true)
-
-
 <!--
 **Tsygankov-Slava/Tsygankov-Slava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
